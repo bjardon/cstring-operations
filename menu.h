@@ -16,7 +16,7 @@
 // Requerido para la impresión a stdout
 #include <stdio.h>
 // Requerido por el alias de string
-#include "string.h"
+#include "strings.h"
 
     /** PROTOTIPOS **/
 
